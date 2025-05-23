@@ -32,7 +32,7 @@ A simple ATM simulation built with C# and Windows Forms. This desktop applicatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anushkas245/ATM-simulator.git
+   git clone https://github.com/your-username/ATM-System.git
 Open the .sln file in Visual Studio.
 
 Build and Run the project.
