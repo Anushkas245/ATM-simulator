@@ -33,11 +33,11 @@ A simple ATM simulation built with C# and Windows Forms. This desktop applicatio
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ATM-System.git
-Open the .sln file in Visual Studio.
+2.Open the .sln file in Visual Studio.
 
-Build and Run the project.
+3.Build and Run the project.
 
-Use the credentials below to log in.
+4.Use the credentials below to log in.
 
 🔐 Default Login Credentials
 
